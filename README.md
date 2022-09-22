@@ -1,1 +1,1 @@
-The quiz is realted to the webseries SUITS. No idea!!
+The quiz is realted to the webseries SUITS.
