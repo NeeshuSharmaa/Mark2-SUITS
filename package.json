@@ -1,6 +1,29 @@
 {
+  "name": "mark2-suits",
+  "version": "1.0.0",
+  "description": "The quiz is realted to the webseries SUITS.\r What's new?",
+  "main": "quiz.js",
   "dependencies": {
+    "ansi-styles": "^4.3.0",
     "chalk": "^4.1.2",
-    "readline-sync": "^1.4.10"
-  }
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "has-flag": "^4.0.0",
+    "readline-sync": "^1.4.10",
+    "supports-color": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeeshuSharmaa/Mark2-SUITS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeeshuSharmaa/Mark2-SUITS/issues"
+  },
+  "homepage": "https://github.com/NeeshuSharmaa/Mark2-SUITS#readme"
 }
