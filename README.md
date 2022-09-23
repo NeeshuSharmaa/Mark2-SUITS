@@ -1,2 +1,1 @@
-The quiz is realted to the webseries SUITS.
-What's new?
+The quiz is related to the webseries SUITS.
