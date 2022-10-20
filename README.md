@@ -10,5 +10,9 @@ The quiz contains a few questions. If one enters the correct answer, s/he will g
 
 [Live Quiz](https://replit.com/@NeeshuSharma/Mark2-SUITS-fandom-quiz?v=1)
 
+## Languges Used
+`HTML` `CSS` `JavaScript`
+
+Created using Replit
 
 
